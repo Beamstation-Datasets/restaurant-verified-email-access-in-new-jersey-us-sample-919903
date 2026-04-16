@@ -1,0 +1,22 @@
+{
+  "base_price": 2995,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "email",
+  "config_description": "--Reach Independent Inboxes--\n\nWeekly verified, high-deliverability emails.\n\nOnly for established, independent restaurants (or micro-chains) \u2013 large chain enterprises excluded.\n\nWeekly email verification and detailed analysis via our proprietary infrastructure.\n\nBusiness activity validated by an \"Active Heartbeat\" signal.",
+  "config_name": "Restaurant Verified Email Access in New Jersey, US",
+  "export_job_id": "2460c0d1-8289-4419-bdf3-930cc7a5389f",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 919903,
+  "location_name": "New Jersey",
+  "location_type": "state",
+  "repo_name": "restaurant-verified-email-access-in-new-jersey-us-sample-919903",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/919903/beamstation_919903_restaurants-us-nj_SAMPLE_DIST.csv",
+  "sample_pct": 9.99,
+  "sample_records": 526,
+  "sample_sha256": "765faaa4728182444ce3f50910f2ceeb05f85aa00033d6baa8b6b968bd121cd1",
+  "sample_size_bytes": 1987129,
+  "total_records": 5267,
+  "updated_at": "2026-04-09T20:32:32.905524+00:00"
+}

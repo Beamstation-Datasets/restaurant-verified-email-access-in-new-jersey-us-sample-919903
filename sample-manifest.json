@@ -1,12 +1,12 @@
 {
-  "export_job_id": "2460c0d1-8289-4419-bdf3-930cc7a5389f",
+  "export_job_id": "b6c9343e-99ea-4351-b608-f570545cb59a",
   "id_short": 919903,
-  "published_at": "2026-04-16T19:45:37Z",
+  "published_at": "2026-04-19T19:47:37Z",
   "repo_name": "restaurant-verified-email-access-in-new-jersey-us-sample-919903",
   "sample_asset_name": "beamstation_919903_restaurants-us-nj_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/919903/beamstation_919903_restaurants-us-nj_SAMPLE_DIST.csv",
-  "sample_records": 526,
-  "sample_sha256": "765faaa4728182444ce3f50910f2ceeb05f85aa00033d6baa8b6b968bd121cd1",
-  "sample_size_bytes": 1987129,
-  "total_records": 5267
+  "sample_records": 513,
+  "sample_sha256": "1f08475bb6c1601a132f6ced021b22c71ec2d2f70ded7a385d0856652b68affe",
+  "sample_size_bytes": 1941984,
+  "total_records": 5136
 }

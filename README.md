@@ -1,6 +1,6 @@
 # Restaurant Verified Email Access in New Jersey, US
 
-> Free BeamStation sample export with 450 rows and masked direct-contact fields.
+> Free BeamStation sample export with 560 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `919903` |
 | Location | New Jersey |
 | Category | Restaurants |
-| Full dataset size | 4,509 records |
-| Free sample size | 450 records (9.98%) |
-| Last export | 2026-04-23T18:49:36.103284+00:00 |
+| Full dataset size | 5,601 records |
+| Free sample size | 560 records (10.0%) |
+| Last export | 2026-05-01T10:20:19.109112+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/restaurant-verified-email-access-in-new-jersey-us-sample-919903/releases/download/sample-latest/beamstation_919903_restaurants-us-nj_SAMPLE_DIST.csv) |
 
 ## What is in this sample
